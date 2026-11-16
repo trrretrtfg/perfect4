@@ -1,0 +1,4 @@
+ضع ملفات الخطوط الثلاثة هنا قبل بناء التطبيق، وبالأسماء التالية تماماً:
+- thmanyahsans-Black.ttf
+- thmanyahsans-Medium.ttf
+- thmanyahsans-Light.ttf
